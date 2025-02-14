@@ -3,8 +3,6 @@
 ## Introduction
 This repository .....
 
-## Running scripts
-Install required packages:
-python -m pip install -r requirements.txt
+## Running script
+Ensure you have Python 3.11.11 installed.
 
-Instructions for running scripts are available in the respective directories for each method.
